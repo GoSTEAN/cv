@@ -1,0 +1,188 @@
+body {
+    margin: 0;
+    font-family: font-family: 'Merriweather Sans', sans-serif; 
+    text-align: center;
+    font-size: 200%;
+    color: #40514E;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 5.26rem;
+} 
+
+h2 {
+    color: #66BFBF;
+    font-size: 3.5rem;
+    padding: 2px;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #E0FFFF;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+a {
+    color: #11999E;
+     font-family: 'Merriweather Sans', sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+    
+}
+
+a:hover {
+   color: #EAF6F6;  
+}
+
+ .p {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: normal;
+    line-height: 2;
+    color: rgb(69, 100, 107);
+}
+
+.c {
+    color: #102338;
+}
+
+.top-container {
+    color: #AFEEEE;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 150px;
+}
+
+.skill-row {
+    width: 50%;
+    /* text-align: left; */
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;
+} 
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.guitar-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.d {
+    clear: left;
+}
+
+p {
+    line-height: 1;
+}
+
+.g {
+    color: #EAF6F6;
+    padding: 20px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    
+    height: 200px;
+}   
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+hr {
+    border: dotted #EAF6F6;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto 100px auto;
+
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;  
+}
+
+
+
+.classname {
+	-moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	-webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #7892c2), color-stop(1, #476e9e) );
+	background:-moz-linear-gradient( center top, #7892c2 5%, #476e9e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#7892c2', endColorstr='#476e9e');
+	background-color:#7892c2;
+	-webkit-border-top-left-radius:10px;
+	-moz-border-radius-topleft:10px;
+	border-top-left-radius:10px;
+	-webkit-border-top-right-radius:10px;
+	-moz-border-radius-topright:10px;
+	border-top-right-radius:10px;
+	-webkit-border-bottom-right-radius:10px;
+	-moz-border-radius-bottomright:10px;
+	border-bottom-right-radius:10px;
+	-webkit-border-bottom-left-radius:10px;
+	-moz-border-radius-bottomleft:10px;
+	border-bottom-left-radius:10px;
+text-indent:0;
+	border:1px solid #4e6096;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Arial Black;
+	font-size:16px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #283966;
+}.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #476e9e), color-stop(1, #7892c2) );
+	background:-moz-linear-gradient( center top, #476e9e 5%, #7892c2 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#476e9e', endColorstr='#7892c2');
+	background-color:#476e9e;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
